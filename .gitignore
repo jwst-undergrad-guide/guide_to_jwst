@@ -1,2 +1,9 @@
 .DS_Store
 .vscode
+data
+grp
+stpsf-data-LATEST.tar.gz
+synphot5.tar.gz
+Users
+phot*
+residual*
